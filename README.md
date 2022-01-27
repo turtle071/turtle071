@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://img.shields.io/github/followers/turtle071?label=Follow&style=social" alt="github followers" /><br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=turtle0713&show_icons=true&custom_title=Niskii_%20Github%20Stats&theme=midnight-purple" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle071&layout=compact&theme=midnight-purple" alt="Languages." />
 
-<!--
-**turtle071/turtle071** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<hr>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+
+
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+
+<hr>
