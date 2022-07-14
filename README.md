@@ -1,8 +1,7 @@
 <p align="left">
-    <a href="https://github.com/turtle071">
-    <img height="180em" src=https://github-readme-stats.vercel.app/api?username=turtle071&show_icons=true&custom_title=Turtle071%20Github%20Stats&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle071&layout=compact&theme=dark" />
-   </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=turtle071&show_icons=true&custom_title=Turtle071%20Github%20Stats&theme=dark" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=turtle071&layout=compact&theme=dark" alt="Languages." />
+
 </p>
 <hr>
 
